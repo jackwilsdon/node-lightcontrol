@@ -4,6 +4,10 @@
   "homepage": "http://github.com/jackwilsdon/node-lightcontrol/",
   "version": "0.1.0",
   "main": "./lib/lightcontrol.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jackwilsdon/node-lightcontrol.git"
+  },
   "dependencies": {
     "serialport": "^2.0.5"
   }
